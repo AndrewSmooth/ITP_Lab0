@@ -1,4 +1,5 @@
 public class Lab_0 {
-    String a = "ads";
+    String a = "ads" + "abs";
+    String b = "bds" + "abs";
 
 }
